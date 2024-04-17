@@ -4,7 +4,7 @@
 <head>
 <style>
 #myHeader {
-  background-color: lightblue;
+  background-color: black;
   color: black;
   padding: 40px;
   text-align: center;
